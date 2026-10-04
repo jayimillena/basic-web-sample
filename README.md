@@ -33,10 +33,6 @@ A modern, high-performance personal portfolio site built with pure HTML5 and cus
 * **Markup:** HTML5
 * **Styling:** CSS3 (CSS Custom Properties, CSS Grid, Flexbox, Keyframes)
 * **Fonts:**
-* [Plus Jakarta Sans](https://fonts.google.com/specimen/Plus+Jakarta+Sans) (Body & Headings)
-* [JetBrains Mono](https://fonts.google.com/specimen/JetBrains+Mono) (Code & Accent Badges)
-
-
 
 ---
 
@@ -53,21 +49,10 @@ No build step, bundlers, or node modules are required.
 
 Use a simple local static server or VS Code extension like **Live Server** to run the site:
 
-```bash
-# Using Python
-python -m http.server 8000
-
-# Using Node.js npx static server
-npx serve .
-
-```
-
 ---
 
 ## 📄 License
 
 Distributed under the MIT License. Feel free to use this architecture as a base for your own personal portfolio.
-
-```
 
 ```
