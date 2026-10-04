@@ -47,7 +47,7 @@ No build step, bundlers, or node modules are required.
 
 ### 2. Live Development
 
-Use a simple local static server or VS Code extension like **Live Server** to run the site:
+Use a simple local static server.
 
 ---
 
