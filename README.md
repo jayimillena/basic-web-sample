@@ -1,11 +1,7 @@
-# README.md
-
-```markdown
-# John Doe — Portfolio (2026 Edition)
+## John Doe — Portfolio (2026 Edition)
 
 A modern, high-performance personal portfolio site built with pure HTML5 and custom CSS. Designed with a dark obsidian aesthetic, modern typography, glassmorphism UI elements, and glowing cyan/purple accent gradients.
 
----
 
 ## 🌟 Key Features
 
@@ -20,7 +16,7 @@ A modern, high-performance personal portfolio site built with pure HTML5 and cus
 ## 📂 Project Structure
 
 ```text
-.
+
 ├── index.html         # Main HTML markup and embedded CSS styles
 └── README.md          # Project documentation
 
